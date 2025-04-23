@@ -49,6 +49,10 @@ export default defineConfig({
               label: "Diagrama de Actividad",
               slug: "diagramas/diagrama_de_actividades",
             },
+            {
+              label: "Diagrama de Despliegue",
+              slug: "diagramas/diagrama_despliegue",
+            },
           ],
         },
       ],
