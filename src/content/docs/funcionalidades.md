@@ -20,7 +20,9 @@ Este proyecto ofrece diversas funcionalidades que permiten a los usuarios intera
 
 - Registro de nuevos usuarios con un sistema de autenticación.
 - Inicio de sesión para usuarios registrados y asignación de roles (usuarios básicos y administradores).
-- Los administradores pueden gestionar las rutas y los usuarios, mientras que los usuarios básicos pueden explorar el contenido.
+- Los administradores pueden gestionar las recetas y los usuarios, mientras que los usuarios básicos pueden explorar el contenido y el detalle de cada receta.
+- Registro e inicio de sesión de usuarios mediante un sistema seguro de autenticación
+- Seguridad mediante hash de contraseñas y control de acceso basado en roles.
 
 ### Mapas interactivos
 
@@ -35,9 +37,11 @@ Este proyecto ofrece diversas funcionalidades que permiten a los usuarios intera
 
 ### Gestión de recetas de café
 
-- Los usuarios pueden crear, editar, eliminar y listar recetas de café de especialidad.
+- Visualización de una lista completa de recetas de café con detalles como ingredientes, preparación y origen.
+- Creación, edición y eliminación de recetas por parte de usuarios autenticados
 - Las recetas pueden ser compartidas con otros usuarios y pueden incluir detalles sobre el tipo de café, los métodos de preparación y origenes.
 - Los usuarios pueden descubrir nuevas recetas.
+- Funcionalidad de favoritos, que permite guardar recetas preferidas.
 
 ### Rutas de café de especialidad
 
